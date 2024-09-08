@@ -1,0 +1,32 @@
+What's Inside:
+
+    Events: dates, locations, and venues that hosted the 2024 Olympics (available).
+    Sports: detailed breakdown of all sports and their respective disciplines (available).
+    Schedules: detailed schedules of all competitions (available).
+    Athletes: complete list of athletes, and teams that competed (will be added since the Olympics start).
+    Medals: Gold, silver, and bronze medalists across all competitions (will be added since the Olympics start).
+    Medal Standings: rankings of countries based on total medals won (will be added since the Olympics start).
+    Results: results across all competitions (will be added since the Olympics start).
+
+Why It Matters:
+
+Dataset is designed to empower researchers and analysts like you to:
+
+    Explore Trends: Track medal distributions and analyze performance trends.
+    Compare Histories: Conduct historical comparisons with the last Tokyo 2020 Summer Olympic Games and other past Olympic Games 1896-2022.
+    Inspire Collaboration: Join a community dedicated to advancing Olympic research.
+
+Ready to dive in?
+
+The Paris 2024 Olympic Summer Games Dataset is available for use and download in CSV format.
+If you are interested in historical data the Olympic Summer & Winter Games, 1896-2022 Dataset is also available in CSV format.
+Spread the Word:
+
+Share this announcement with your colleagues, peers, and networks who share a passion for sports analytics and Olympic history. Upvote the dataset on the dataset page. Together, let's unlock the stories behind the medals.
+
+If you have any questions or suggestions please open Discussion inside the dataset.
+
+Thank you for your interest and support. Welcome!
+Sports
+Data Storytelling
+Data Analytics
