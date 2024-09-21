@@ -1,0 +1,9 @@
+databricks configure --token <your_personal_access_token> --host <your_workspace_url>  ---establishing a connection between your CLI and Databricks CLI
+
+databricks secrets create-scope <scope-name> --initial-manage-principal users --Creating a databricks scope
+
+databricks secrets list-scopes  --confirming scopes have been created
+
+databricks secrets put-secret <your_scope_name> test-key --string-value <your_secret_key_value>   -- creating a secret key
+
+databricks secrets list-secrets test-scope    -- checking keys
