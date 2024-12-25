@@ -8,6 +8,7 @@ This simple data engineering pipeline on Azure ingests data via Azure Data Facto
 * Microsoft Azure Cloud Platform
 * Running Locally through Flask
 
+I wrote an article about in on Medium. [Check it out](https://medium.com/dev-genius/building-an-azure-data-engineering-pipeline-ingesting-and-transforming-olympics-data-with-azure-02606cf66dcd)
 
 
 ### Built With
